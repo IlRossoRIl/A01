@@ -1,2 +1,1 @@
-# A01
-# A01
+Este proyecto es un ejercicio practico de una SPA con Bootstrap
